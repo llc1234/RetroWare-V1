@@ -1,0 +1,14 @@
+﻿  Main.cpp
+D:\visual_studio_Projects_cpp\RetroWare V1\RetroWare V1\Window.h(366,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare V1\RetroWare V1\Window.h(367,54): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare V1\RetroWare V1\Window.h(367,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\visual_studio_Projects_cpp\RetroWare V1\RetroWare V1\Window.h(369,1): warning C4305: '+=': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\RetroWare V1\RetroWare V1\Window.h(403,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\visual_studio_Projects_cpp\RetroWare V1\RetroWare V1\Window.h(404,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+D:\visual_studio_Projects_cpp\RetroWare V1\RetroWare V1\Window.h(610): warning C4715: 'Window::GetModuleBaseAddress': not all control paths return a value
+  All 1685 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RetroWare V1.vcxproj -> D:\visual_studio_Projects_cpp\RetroWare V1\Release\RetroWare V1.exe
